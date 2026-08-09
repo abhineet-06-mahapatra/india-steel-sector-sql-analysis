@@ -1,16 +1,22 @@
 An analyst-style SQL project exploring India's steel industry using official government data (Lok Sabha / Rajya Sabha replies, Ministry of Steel). Covers state-wise production, international trade, and public vs. private sector output.
 
 📊 **Data Sources**
--🏗️ State-wise crude steel production	2021-24	data.gov.in
--🔧 State-wise finished steel production	2019-24	data.gov.in
--📥 Country-wise steel imports	2019-24	data.gov.in
--📤 Country-wise steel exports	2019-24	data.gov.in
--📅 Monthly production by producer type	2024-25	data.gov.in
+
+
+- 🏗️ State-wise crude steel production	2021-24	data.gov.in
+- 🔧 State-wise finished steel production	2019-24	data.gov.in
+- 📥 Country-wise steel imports	2019-24	data.gov.in
+- 📤 Country-wise steel exports	2019-24	data.gov.in
+- 📅 Monthly production by producer type	2024-25	data.gov.in
 
 **🛠️ Tools & Techniques**
+
+
 SQL Server (SSMS), data cleaning via UNPIVOT, joins (INNER, FULL OUTER), window functions (LAG), and aggregation (GROUP BY, SUM, AVG).
 
 **🔑 Key Findings**
+
+
 🥇 1. Production is concentrated in three eastern states.
 Odisha, Jharkhand, and Chhattisgarh consistently rank as India's top 3 crude steel producers across 2021-24. Odisha alone produced 25,740 thousand tonnes in 2023-24, nearly double 4th-place Maharashtra's 15,678.
 
