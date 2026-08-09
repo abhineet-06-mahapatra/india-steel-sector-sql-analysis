@@ -30,6 +30,7 @@ The available months (July 2024 through February 2025) show December and January
 Uttarakhand converts at the highest ratio, 1.74 in 2021-22 declining to 1.46 by 2023-24. Delhi (0.05 to 0.46) and Rajasthan (0.33 to 0.40) convert far less locally, suggesting these states rely more on imported or inbound semi-finished steel rather than local crude-to-finished conversion.
 
 **📝 Data Notes**
-Daman and Diu stops reporting separately after 2021-22 due to its administrative merger with Dadra & Nagar Haveli.
-Arunachal Pradesh shows a null conversion ratio in 2021-22 due to zero finished steel output that year, not a data error.
-A "Total" summary row exists in the raw state-level files alongside individual states and was explicitly excluded from all state-level rankings and aggregations.
+
+- Daman and Diu stops reporting separately after 2021-22 due to its administrative merger with Dadra & Nagar Haveli.
+- Arunachal Pradesh shows a null conversion ratio in 2021-22 due to zero finished steel output that year, not a data error.
+- A "Total" summary row exists in the raw state-level files alongside individual states and was explicitly excluded from all state-level rankings and aggregations.
